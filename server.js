@@ -14,6 +14,7 @@ hbs.registerHelper('upprText', (text) => {
 	return text.toUpperCase();
 });
 
+
 /*app.use((req, res, next) => {
 	res.render('maintenance');
 });*/
